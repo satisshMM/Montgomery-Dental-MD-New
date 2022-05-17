@@ -3,7 +3,7 @@
  ?>
 <!-- banner-start -->
 <section>
-    <div class="w-100 float-left generic-banner-con text-xl-left text-lg-left text-center">
+    <div class="w-100 generic-banner-con text-xl-left text-lg-left text-center">
         <div class="container">
             <div class="generic-banner-content text-white text-center">
                 <h1>Contact Us</h1>
@@ -85,64 +85,84 @@
 <!-- Schedule-section -->
 <!-- contact-page-form -->
 <section>
-    <div class="w-100 float-left contact-page-form-con">
-        <div class="wrapper">
-            <div class="contact-page-form-txt text-center">
-                <h2>Contact Our Friendly Reception<br>
-                    Staff with any Enquiry
-                </h2>
+    <div class="w-100 float-left form-main-con" id="contact-form">
+        <div class="container ">
+            <div class="text-center">
+                <h2>Book An Appointment</h2>
+                <p>It's simple and FAST to book your Montgomery Dental MD Appointment Online. Also, you can see a full
+                    rundown of available times and pick the time that suits you best.
+
+                </p>
             </div>
-            <div id="form_result"></div>
-            <form class="contact-form-plan-box" id="contactpage" method="POST">
-                <div class="form-row">
-                    <div class="col-lg-6 col-md-6">
-                        <div class="form-group">
-                            <input type="text" class="form-control" placeholder="Your Name:" name="name" id="name">
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-lg-6 col-md-6">
-                        <div class="form-group">
-                            <input type="email" class="form-control" placeholder="Your Email:" name="email" id="email">
-                        </div>
+            <div class="row align-items-center">
+                <div class="col-lg-6 order-xl-0 order-lg-0 order-2">
+                    <div class=" position-relative text-center">
+                        <img src="assets/Assets/contact.jpg"
+                            style="width: 550px; height: 450px; border-radius:2rem 0 2rem 0">
                     </div>
                 </div>
-                <div class="form-row">
-                    <div class="col-lg-6 col-lg-6 col-md-6">
+                <div class="col-lg-6">
+                    <form class="contact-form">
                         <div class="form-group">
-                            <input type="tel" class="form-control" placeholder="Phone:" name="phone" id="phone">
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-lg-6 col-md-6">
-                        <div class="form-group">
-                            <select class="form-control select-form position-relative">
-                                <option>Subject:</option>
-                                <option>2</option>
-                                <option>3</option>
-                                <option>4</option>
-                                <option>5</option>
+                            <label for="exampleFormControlSelect1" class="text-white">Department</label>
+                            <select class="form-control position-relative" id="exampleFormControlSelect1">
+                                <option>General Health Checkup</option>
+                                <option>General Health Checkup</option>
+                                <option>General Health Checkup</option>
+                                <option>General Health Checkup</option>
+                                <option>General Health Checkup</option>
                             </select>
-                            <i class="fas fa-angle-down down-icon"></i>
+                            <i class="fas fa-angle-down"></i>
                         </div>
-                    </div>
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6">
+                                <div class="form-group">
+                                    <input type="text" class="form-control" placeholder="Name:" name="name" id="name">
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6">
+                                <div class="form-group">
+                                    <input type="email" class="form-control" placeholder="Email:">
+                                    <small id="emailHelp" class="form-text text-muted"></small>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6">
+                                <div class="form-group">
+                                    <input type="time" class="form-control">
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6">
+                                <div class="form-group">
+                                    <select class="form-control position-relative">
+                                        <option>Choose Doctor </option>
+                                        <option>2</option>
+                                        <option>3</option>
+                                        <option>4</option>
+                                        <option>5</option>
+                                    </select>
+                                    <i class="fas fa-angle-down down-icon"></i>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="textarea form-group W-100">
+                                    <textarea class="form-control " placeholder="Message:" rows="3" name="comments"
+                                        id="comments"></textarea>
+                                </div>
+                            </div>
+                        </div>
+                        <button type="submit" class="btn  appointment-btn">Make Appointment</button>
+                    </form>
                 </div>
-                <div>
-                    <div class="textarea form-group">
-                        <textarea class="form-control" placeholder="Message:" rows="3" name="comments"
-                            id="comments"></textarea>
-                    </div>
-                </div>
-                <div class="submitform-button">
-                    <button type="submit" id="submit"
-                        class="submitform-btn appointment-btn ml-auto mr-auto d-block">Send Message</button>
-                </div>
-            </form>
+            </div>
         </div>
     </div>
 </section>
 <!-- contact-page-form -->
 <!-- map-section-->
 <div class="w-100 float-left map-con">
-    <div class="container">
+    <div class="container" id="site-map">
         <iframe
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3093.160503004109!2d-77.20934818470656!3d39.17107177952938!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b62d4d71e50c7b%3A0xf74cb95959593487!2sMontgomery%20Dental%20MD!5e0!3m2!1sen!2sin!4v1652177960340!5m2!1sen!2sin"
             width="1100" height="450" style="border:0;margin:0 auto;" allowfullscreen="" loading="lazy"

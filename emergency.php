@@ -3,12 +3,11 @@
  ?>
 <!-- banner-start -->
 <section>
-    <div class="w-100 float-left generic-banner-con text-xl-left text-lg-left text-center">
+    <div class="w-100 generic-banner-con text-xl-left text-lg-left text-center">
         <div class="container">
             <div class="generic-banner-content text-white text-center">
                 <h1>Emergency</h1>
-                <p class="text-white mb-0">Dentistry is a highly specialized and intricate medical profession, where
-                    Dentist work on very small <br> surfaces to try and repair micro decay.</p>
+                <p class="text-white mb-0"></p>
             </div>
         </div>
     </div>
@@ -27,24 +26,14 @@
                     <div class="quality-system-left-con">
                         <h2>Emergency
                         </h2>
-                        <p>Seram ipsum dolor sit amet, consectetur adipiscing elit, sed do eius mod tempor incididunt.
+                        <p>Tooth pain is one of the most serious pain in the body close to Heart pain, Kidney pain and
+                            Labor pain. Serious tooth pain is brought about by different variables like Tooth Decay, Gum
+                            Infection or during eruption of Wisdom tooth .
                         </p>
-                        <p>Aenean leo ligula, porttitor eu consequat vitae eleifend ac enim aliqu am lorem ante dapibus
-                            in viverra quis feugiata tellus.</p>
+                        <p>Likewise Pain can be a direct result of trauma or accident (tooth crack, luxation, horizontal
+                            relocation or separation, subluxation, dental concussion(tooth was hit), dental interruption
+                            (tooth was pushed in), root break, dento-Alveolar break).</p>
                         <div class="quality-system-list">
-                            <ul class="list-unstyled">
-                                <li class="position-relative"><i class="fas fa-circle"></i>Appearance of
-                                    Teeth</li>
-                                <li class="position-relative"><i class="fas fa-circle"></i>Dental Cleanings</li>
-                                <li class="position-relative"><i class="fas fa-circle"></i>Dental X-rays</li>
-                            </ul>
-                        </div>
-                        <div class="quality-system-list">
-                            <ul class="list-unstyled">
-                                <li class="position-relative"><i class="fas fa-circle"></i>Regular Checkups</li>
-                                <li class="position-relative"><i class="fas fa-circle"></i>Dental Treatments</li>
-                                <li class="position-relative"><i class="fas fa-circle"></i>Faster Solutions</li>
-                            </ul>
                             <a href="contact.php" class="appointment-btn">Make Appointment</a>
                         </div>
                     </div>
@@ -63,20 +52,20 @@
 
 <!-- Contact-section -->
 <section>
-    <div class="w-100 float-left form-main-con" id="contact-form">
-        <div class="container">
+    <div class="w-100 float-left form-main-con pt-4" id="contact-form">
+        <div class="container ">
             <div class="text-center">
-                <h2 style="padding-top:3rem;">Book An Appointment</h2>
-                <p>Seram ipsum dolor sit amet, consectetur adipiscing elit, sed do eius mod tempor incididunt aenean<br>
-                    leo ligula porttitor eu consequat vitae eleifend tac.
+                <h2>Book An Appointment</h2>
+                <p>It's simple and FAST to book your Montgomery Dental MD Appointment Online. Also, you can see a full
+                    rundown of available times and pick the time that suits you best.
+
                 </p>
             </div>
-            <div class="row">
+            <div class="row align-items-center">
                 <div class="col-lg-6 order-xl-0 order-lg-0 order-2">
-                    <div class="form-left-con position-relative text-center">
-                        <lottie-player src="https://assets3.lottiefiles.com/packages/lf20_fxvz0c.json"
-                            background="transparent" speed="1" style="width: 500px; height: 500px;" loop autoplay>
-                        </lottie-player>
+                    <div class=" position-relative text-center">
+                        <img src="assets/Assets/contact.jpg"
+                            style="width: 550px; height: 450px; border-radius:2rem 0 2rem 0">
                     </div>
                 </div>
                 <div class="col-lg-6">

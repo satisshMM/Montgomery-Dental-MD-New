@@ -85,7 +85,19 @@ html{
 .navbar {
 	padding: 26px 0 24px 0 !important;
 	position:relative;
+	height: 12vh;
+
+	
 }
+.marquee1{
+	background:#325a75;
+	color: white;
+}
+marquee{
+	padding: 1rem 0;
+}
+
+
 .navbar-btn {
 	padding: 9px 16px;
     background: #000814;
@@ -1476,4 +1488,54 @@ border-radius: 0.5rem;
   
   .fadeIn-bottom{
 	top: 80%;
+  }
+
+
+  /* Gallery */
+  .gallery__img{
+	  display: flex;
+	  justify-content: center;
+	  flex-wrap: wrap;
+	  gap: 2rem;
+	
+  }
+  .gallery-img{
+	  height:500px;
+	  width: 380px;
+	  border-radius: 0.5rem;
+  }
+
+  /* Insurance companies */
+  .ppo__plans{
+	  display: flex;
+	  justify-content: center;
+	  flex-wrap: wrap;
+	  gap: 2rem;
+	  margin: 2rem 0;
+  }
+  .insurance_comp{
+	width: 20rem;
+	height: 10rem;
+	background-color: #cfd5d4;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+	border: 2px solid #1da678;
+	border-radius: 0.5rem;
+	
+	
+  }
+  .insurance_comp img{
+	  height: 6rem;
+  }
+  .insurance_comp h6{
+	  padding-top:1rem;
+	  color: white;
+	  font-weight: bolder;
+  }
+
+  .faq__{
+	  font-size: 1rem !important;
+	  padding-left: 1rem !important;
   }

@@ -3,7 +3,7 @@
  ?>
 <!-- banner-start -->
 <section>
-    <div class="w-100 float-left generic-banner-con text-xl-left text-lg-left text-center">
+    <div class="w-100  generic-banner-con text-xl-left text-lg-left text-center">
         <div class="container">
             <div class="generic-banner-content text-white text-center">
                 <h1>Cosmetic Dentistry</h1>
@@ -27,24 +27,14 @@
                     <div class="quality-system-left-con">
                         <h2>Dental Bonding
                         </h2>
-                        <p>Seram ipsum dolor sit amet, consectetur adipiscing elit, sed do eius mod tempor incididunt.
+                        <p>In Cosmetic Dentistry procedures, Dental Bonding is also one of the processes for dental
+                            treatments.
                         </p>
-                        <p>Aenean leo ligula, porttitor eu consequat vitae eleifend ac enim aliqu am lorem ante dapibus
-                            in viverra quis feugiata tellus.</p>
+                        <p> Dental bonding also gives the best accurate results in the dental treatment process. By
+                            using dental bonding procedures you can repair teeth that are damaged, broken, chipped, and
+                            unshaped to become natural and normal.</p>
+
                         <div class="quality-system-list">
-                            <ul class="list-unstyled">
-                                <li class="position-relative"><i class="fas fa-circle"></i>Appearance of
-                                    Teeth</li>
-                                <li class="position-relative"><i class="fas fa-circle"></i>Dental Cleanings</li>
-                                <li class="position-relative"><i class="fas fa-circle"></i>Dental X-rays</li>
-                            </ul>
-                        </div>
-                        <div class="quality-system-list">
-                            <ul class="list-unstyled">
-                                <li class="position-relative"><i class="fas fa-circle"></i>Regular Checkups</li>
-                                <li class="position-relative"><i class="fas fa-circle"></i>Dental Treatments</li>
-                                <li class="position-relative"><i class="fas fa-circle"></i>Faster Solutions</li>
-                            </ul>
                             <a href="contact.php" class="appointment-btn">Make Appointment</a>
                         </div>
                     </div>
@@ -78,15 +68,12 @@
                         <div class="core-vaule-title">
                             <h2>Dental Veneers
                             </h2>
-                            <p>Seram ipsum dolor sit amet, consectetur adipiscing elit, sed
-                                doeius mod tempor incididunt aenean leo.
+                            <p>Dental veneers are filmy, custom-made shells of the tooth are enamelware or resin that
+                                cover the front surface of the teeth.
                             </p>
                         </div>
-                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aperiam at nam vero voluptatibus
-                            aut atque.</p><br>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad ab culpa minus sapiente,
-                            voluptate molestiae a facere repellendus? Exercitationem, excepturi?</p>
-
+                        <p> A veneer can be used for dental treatment conditions like slightly crooked teeth, discolored
+                            and chipped teeth, and also cover spaces in between the teeth.</p><br>
                         <a href="contact.php" class="appointment-btn">Make Appointment</a>
                     </div>
                 </div>
@@ -104,12 +91,14 @@
                     <div class="quality-system-left-con">
                         <h2>Teeth Whitening
                         </h2>
-                        <p>Seram ipsum dolor sit amet, consectetur adipiscing elit, sed do eius mod tempor incididunt.
+                        <p>In Cosmetic Dentistry Teeth whitening is the primary cosmetic dentistry procedure as well as
+                            one of the least expensive treatments.
                         </p>
-                        <p>Aenean leo ligula, porttitor eu consequat vitae eleifend ac enim aliqu am lorem ante dapibus
-                            in viverra quis feugiata tellus.</p>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia tenetur voluptatum beatae
-                            laudantium eveniet corrupti?</p>
+                        <p>Over time, teeth are becoming stained or decomposed from taking food, drinks, medications,
+                            and other habits like smoking and chewing tobacco.</p>
+                        <p>Many people turn to teeth whitening to make their smiles brighter and make them
+                            self-confident in life. In cosmetic Dentistry Tooth Whitening is also a Tooth bleaching
+                            procedure.</p>
                         <div class="quality-system-list">
                             <a href="contact.php" class="appointment-btn">Make Appointment</a>
                         </div>
@@ -128,59 +117,24 @@
 </section>
 <!-- Teeth Whitening -->
 <!-- Wisdom Teeth -->
-<!-- <section>
-    <div class="w-100 float-left core-vaule-con mb-4" id="wisdom-teeth">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-6 col-md-6 d-md-flex  order-xl-0 order-lg-0 order-md-0 order-2">
-                    <div class=" core-vaule-left-con position-relative text-center">
-                        <img src="assets/Assets/wisdom-teeth.jpg"
-                            style="width:500px; height: 450px; border-radius:0 2rem 0 2rem;" />
 
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6">
-                    <div class="core-vaule-right-con text-xl-left text-lg-left text-md-left text-center">
-                        <div class="core-vaule-title">
-                            <h2>Wisdom Teeth
-                            </h2>
-                            <p>Seram ipsum dolor sit amet, consectetur adipiscing elit, sed
-                                doeius mod tempor incididunt aenean leo.
-                            </p>
-                        </div>
-                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aperiam at nam vero voluptatibus
-                            aut atque.</p><br>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad ab culpa minus sapiente,
-                            voluptate molestiae a facere repellendus? Exercitationem, excepturi?</p>
-
-                        <a href="contact.php" class="appointment-btn">Make Appointment</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<br>
-<br>
-<br> -->
-<!-- Wisdom Teeth -->
 
 <!-- Contact-section -->
 <section>
-    <div class="w-100 float-left form-main-con" id="contact-form">
-        <div class="container">
+    <div class="w-100 float-left form-main-con pt-4" id="contact-form">
+        <div class="container ">
             <div class="text-center">
-                <h2 style="padding-top:3rem;">Book An Appointment</h2>
-                <p>Seram ipsum dolor sit amet, consectetur adipiscing elit, sed do eius mod tempor incididunt aenean<br>
-                    leo ligula porttitor eu consequat vitae eleifend tac.
+                <h2>Book An Appointment</h2>
+                <p>It's simple and FAST to book your Montgomery Dental MD Appointment Online. Also, you can see a full
+                    rundown of available times and pick the time that suits you best.
+
                 </p>
             </div>
-            <div class="row">
+            <div class="row align-items-center">
                 <div class="col-lg-6 order-xl-0 order-lg-0 order-2">
-                    <div class="form-left-con position-relative text-center">
-                        <lottie-player src="https://assets3.lottiefiles.com/packages/lf20_fxvz0c.json"
-                            background="transparent" speed="1" style="width: 500px; height: 500px;" loop autoplay>
-                        </lottie-player>
+                    <div class=" position-relative text-center">
+                        <img src="assets/Assets/contact.jpg"
+                            style="width: 550px; height: 450px; border-radius:2rem 0 2rem 0">
                     </div>
                 </div>
                 <div class="col-lg-6">

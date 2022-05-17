@@ -9,12 +9,13 @@
                                  <figure>
                                      <img src="assets/image/footer-logo.png" alt="footer-logo" class="img-fluid w-50">
                                  </figure>
-                                 <p class="col-lg-11 col-md-7 pl-0 pr-0 ml-lg-0 mr-lg-0 ml-md-auto mr-md-auto">Lorem
-                                     ipsum dolor sit amet, consectetur adipiscing elitsed do eiusmod tempororem ipsum
-                                     dolor sit am econsect ametconsectetetur adipiscing.</p>
+                                 <p class="col-lg-11 col-md-7 pl-0 pr-0 ml-lg-0 mr-lg-0 ml-md-auto mr-md-auto">
+                                     Montgomery Dental MD gives superior quality dentistry with complete Dental
+                                     Solutions and flawless customer service.</p>
                                  <div class="weight-social-list">
                                      <ul class="list-unstyled mb-0">
-                                         <li class="d-inline-block"><a href="https://www.facebook.com/"><i
+                                         <li class="d-inline-block"><a target="_blank"
+                                                 href="https://www.facebook.com/MontgomeryDentalMD/?ref=pages_you_manage"><i
                                                      class="fab fa-facebook-square d-flex align-items-center justify-content-center text-white pr-0"></i></a>
                                          </li>
                                          <li class="d-inline-block"><a href="https://twitter.com/?lang=en"><i
@@ -34,25 +35,34 @@
                              <div class="weight-footer-content">
                                  <h5>Important Link</h5>
                                  <ul class="list-unstyled mb-0">
-                                     <li><i class="fas fa-caret-right"></i>Appointment</li>
-                                     <li><i class="fas fa-caret-right"></i>Doctors</li>
-                                     <li><i class="fas fa-caret-right"></i>Services</li>
-                                     <li><i class="fas fa-caret-right"></i>Specialties</li>
-                                     <li><i class="fas fa-caret-right"></i>Neurology</li>
-                                     <li class="mb-0"><i class="fas fa-caret-right"></i>Oncology</li>
+                                     <li><i class="fas fa-caret-right"></i><a href="tel:240 288 9999">Appointment</a>
+                                     </li>
+                                     <li><i class="fas fa-caret-right"></i><a href="services.php">Dental Services</a>
+                                     </li>
+                                     <li><i class="fas fa-caret-right"></i> <a href="about.php#our_doctor"> Our
+                                             Dentist</a>
+                                     </li>
+                                     <li><i class="fas fa-caret-right"></i><a href="blogs.php">Blogs</a></li>
+                                     <li><i class="fas fa-caret-right"></i><a href="about.php#faq">F.A.Q</a></li>
+                                     <li class="mb-0"><i class="fas fa-caret-right"></i><a
+                                             href="contact.php#site-map">Site Map</a></li>
                                  </ul>
                              </div>
                          </div>
                          <div class="col-lg-2 col-md-3 col-sm-3 col-6">
                              <div class="weight-footer-content">
-                                 <h5>Support</h5>
+                                 <h5>Other Services</h5>
                                  <ul class="list-unstyled mb-0">
-                                     <li><i class="fas fa-caret-right"></i>Support</li>
-                                     <li><i class="fas fa-caret-right"></i>Contact Us</li>
-                                     <li><i class="fas fa-caret-right"></i>Knowledge Base</li>
-                                     <li><i class="fas fa-caret-right"></i>About Us</li>
-                                     <li><i class="fas fa-caret-right"></i>Faq</li>
-                                     <li class="mb-0"><i class="fas fa-caret-right"></i>Partnerships</li>
+                                     <li><i class="fas fa-caret-right"></i><a href="implants.php">Implants</a></li>
+                                     <li><i class="fas fa-caret-right"></i><a href="invisalign.php">Invisalign</a></li>
+                                     <li><i class="fas fa-caret-right"></i><a
+                                             href="general_dentistry.php#c&p">Cleaning</a></li>
+                                     <li><i class="fas fa-caret-right"></i><a
+                                             href="general_dentistry.php#wisdom-teeth">Wisdom</a></li>
+                                     <li><i class="fas fa-caret-right"></i><a
+                                             href="restorative_dentistry.php#bridges">Bridges</a></li>
+                                     <li class="mb-0"><i class="fas fa-caret-right"></i><a
+                                             href="general_dentistry.php#extraction">Extraction</a></li>
                                  </ul>
                              </div>
                          </div>
@@ -86,6 +96,8 @@
      <script src="assets/js/jquery-3.6.0.min.js"> </script>
      <script src="assets/js/popper.min.js"> </script>
      <script src="assets/js/wow.js"></script>
+     <script async src="https://unpkg.com/typer-dot-js@0.1.0/typer.js"></script>
+
      <script>
 new WOW().init();
      </script>

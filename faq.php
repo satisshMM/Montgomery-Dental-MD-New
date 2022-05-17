@@ -3,7 +3,7 @@
  ?>
 <!-- banner-start -->
 <section>
-    <div class="w-100 float-left generic-banner-con text-xl-left text-lg-left text-center">
+    <div class="w-100  generic-banner-con text-xl-left text-lg-left text-center">
         <div class="container">
             <div class="generic-banner-content text-white text-center">
                 <h1>FAQ</h1>

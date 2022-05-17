@@ -3,12 +3,12 @@
  ?>
 <!-- banner-start -->
 <section>
-    <div class="w-100 float-left generic-banner-con text-xl-left text-lg-left text-center">
+    <div class="w-100 generic-banner-con text-xl-left text-lg-left text-center">
         <div class="container">
             <div class="generic-banner-content text-white text-center">
                 <h1>About Us</h1>
-                <p class="text-white mb-0">Dentistry is a highly specialized and intricate medical profession, where
-                    Dentist work on very small <br> surfaces to try and repair micro decay.</p>
+                <p class="text-white mb-0">Our dental clinic is the largest public dental care in Montgomery Village, we
+                    are uniquely focused on better dental care for every patient.</p>
             </div>
         </div>
     </div>
@@ -18,41 +18,28 @@
 </div>
 </div>
 <!-- header-and-banner-section -->
-<!-- quality-system-section -->
+<!-- Our team-section -->
 <section>
-    <div class="w-100 float-left quality-system-con Experince-section">
+    <div class="w-100 float-left quality-system-con Experince-section" id="our_doctor">
         <div class="container">
-            <div class="row">
+            <div class="row align-items-center">
                 <div class="col-lg-6 col-md-6 d-flex align-items-center">
                     <div class="quality-system-left-con">
-                        <h2>Professional Doctor With
-                            Years Of Experince
+                        <h2>Dr. Kiran Nayudu
                         </h2>
-                        <p>Seram ipsum dolor sit amet, consectetur adipiscing elit, sed do eius mod tempor incididunt.
+                        <p>Dr. Kiran Nayudu graduated from New York University School of Dentistry in 2010. As a General
+                            Dentist, I worked as an Associate dDntist in Texas, Wisconsin and Baltimore area before
+                            setting up my own practice in Montgomery County, Maryland.
                         </p>
-                        <p>Aenean leo ligula, porttitor eu consequat vitae eleifend ac enim aliqu am lorem ante dapibus
-                            in viverra quis feugiata tellus.</p>
-                        <div class="quality-system-list">
-                            <ul class="list-unstyled">
-                                <li class="position-relative"><i class="fas fa-circle"></i>24 Hour Service</li>
-                                <li class="position-relative"><i class="fas fa-circle"></i>Emergency Cases</li>
-                                <li class="position-relative"><i class="fas fa-circle"></i>Expert Doctors</li>
-                            </ul>
-                        </div>
-                        <div class="quality-system-list">
-                            <ul class="list-unstyled">
-                                <li class="position-relative"><i class="fas fa-circle"></i>Update Covid-19</li>
-                                <li class="position-relative"><i class="fas fa-circle"></i>24/7 Help Center</li>
-                                <li class="position-relative"><i class="fas fa-circle"></i>Modern Clinic</li>
-                            </ul>
-                        </div>
+                        <p>As a Dentist who aims to make a tangible difference in the community, I felt compelled to
+                            bring my skill set to improve Patients Health and Smiles.</p>
+
+
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 d-md-flex align-items-md-end">
-                    <div class="quality-system-right-con position-relative text-center overlay-img">
-                        <lottie-player src="https://assets1.lottiefiles.com/packages/lf20_syp9oniy.json"
-                            background="transparent" speed="1" style="width: 700px; height: 400px;" loop autoplay>
-                        </lottie-player>
+                    <div class=" position-relative text-center overlay-img">
+                        <img src="assets/Assets/Doctor1.webp" style="width: 600px; height: 500px;">
                     </div>
                 </div>
             </div>
@@ -61,7 +48,7 @@
 </section>
 <!-- quality-system-section -->
 <!-- core-vaule-section -->
-<section>
+<!-- <section>
     <div class="w-100 float-left core-vaule-con">
         <div class="container">
             <div class="row">
@@ -78,8 +65,8 @@
                             <h2>Our Core Values And
                                 Principle
                             </h2>
-                            <p>Seram ipsum dolor sit amet, consectetur adipiscing elit, sed
-                                doeius mod tempor incididunt aenean leo.
+                            <p>We are committed to pursuing the highest level of honesty and integrity in all of our
+                                interactions with the patients.
                             </p>
                         </div>
                         <div class="core-vaule-box-con">
@@ -123,7 +110,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <!-- core-vaule-section -->
 <!-- fun-facts-section-->
 <section>
@@ -200,122 +187,14 @@
     </div>
 </section>
 <!-- fun-facts-section-->
-<!-- professional-section-->
-<section>
-    <div class="w-100 float-left professional-con" id="team">
-        <div class="container">
-            <div class="professional-title text-center">
-                <h2>Meet Our Professionals</h2>
-                <p>Seram ipsum dolor sit amet, consectetur adipiscing elit sed lorem ipsum dolor sit amet,
-                    consectetur<br>
-                    adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
-                </p>
-            </div>
-            <div class="professional-box">
-                <div class="row">
-                    <div class="col-lg-4 col-md-4">
-                        <div class="professional-box-item text-center">
-                            <a href="team-detail.html">
-                                <figure class="mb-0">
-                                    <img src="assets/image/professional-box-img1.png" alt="professional-box-img"
-                                        class="img-fluid">
-                                </figure>
-                                <h5>Dr. Richard Muldoon</h5>
-                                <small class="d-block">Doctor of Medicine</small>
-                                <span class="d-block">Lorem ipsum dolor sit ametc onsectetur adipiscing elitsed do
-                                    eiusmod</span>
-                                <div class="professional-box-social-list">
-                                    <ul class="list-unstyled mb-0">
-                                        <li class="d-inline-block"><a href="https://www.facebook.com/"><i
-                                                    class="fab fa-facebook-square d-flex align-items-center justify-content-center text-white pr-0"></i></a>
-                                        </li>
-                                        <li class="d-inline-block"><a href="https://twitter.com/?lang=en"><i
-                                                    class="fab fa-twitter-square d-flex align-items-center justify-content-center text-white pr-0"></i></a>
-                                        </li>
-                                        <li class="d-inline-block"><a href="https://www.linkedin.com/signup"><i
-                                                    class="fab fa-linkedin d-flex align-items-center justify-content-center text-white pr-0"></i></a>
-                                        </li>
-                                        <li class="d-inline-block"><a href="https://www.pinterest.com/"><i
-                                                    class="fab fa-pinterest-square mr-0 d-flex align-items-center justify-content-center text-white pr-0"></i></a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-lg-4 col-md-4">
-                        <div class="professional-box-item text-center">
-                            <a href="team-detail.html">
-                                <figure class="mb-0">
-                                    <img src="assets/image/professional-box-img2.png" alt="professional-box-img"
-                                        class="img-fluid">
-                                </figure>
-                                <h5>Dr. Maria Andaloro</h5>
-                                <small class="d-block">Dental Medicine</small>
-                                <span class="d-block">Lorem ipsum dolor sit ametc onsectetur adipiscing elitsed do
-                                    eiusmod</span>
-                                <div class="professional-box-social-list">
-                                    <ul class="list-unstyled mb-0">
-                                        <li class="d-inline-block"><a href="https://www.facebook.com/"><i
-                                                    class="fab fa-facebook-square d-flex align-items-center justify-content-center text-white pr-0"></i></a>
-                                        </li>
-                                        <li class="d-inline-block"><a href="https://twitter.com/?lang=en"><i
-                                                    class="fab fa-twitter-square d-flex align-items-center justify-content-center text-white pr-0"></i></a>
-                                        </li>
-                                        <li class="d-inline-block"><a href="https://www.linkedin.com/signup"><i
-                                                    class="fab fa-linkedin d-flex align-items-center justify-content-center text-white pr-0"></i></a>
-                                        </li>
-                                        <li class="d-inline-block"><a href="https://www.pinterest.com/"><i
-                                                    class="fab fa-pinterest-square mr-0 d-flex align-items-center justify-content-center text-white pr-0"></i></a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-lg-4 col-md-4">
-                        <div class="professional-box-item text-center mb-0">
-                            <a href="team-detail.html">
-                                <figure class="mb-0">
-                                    <img src="assets/image/professional-box-img3.png" alt="professional-box-img"
-                                        class="img-fluid">
-                                </figure>
-                                <h5>Dr. Michael Brian</h5>
-                                <small class="d-block">Family Physician</small>
-                                <span class="d-block">Lorem ipsum dolor sit ametc onsectetur adipiscing elitsed do
-                                    eiusmod</span>
-                                <div class="professional-box-social-list">
-                                    <ul class="list-unstyled mb-0">
-                                        <li class="d-inline-block"><a href="https://www.facebook.com/"><i
-                                                    class="fab fa-facebook-square d-flex align-items-center justify-content-center text-white pr-0"></i></a>
-                                        </li>
-                                        <li class="d-inline-block"><a href="https://twitter.com/?lang=en"><i
-                                                    class="fab fa-twitter-square d-flex align-items-center justify-content-center text-white pr-0"></i></a>
-                                        </li>
-                                        <li class="d-inline-block"><a href="https://www.linkedin.com/signup"><i
-                                                    class="fab fa-linkedin d-flex align-items-center justify-content-center text-white pr-0"></i></a>
-                                        </li>
-                                        <li class="d-inline-block"><a href="https://www.pinterest.com/"><i
-                                                    class="fab fa-pinterest-square mr-0 d-flex align-items-center justify-content-center text-white pr-0"></i></a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- professional-section-->
+
 <!-- FAQ -->
-<div class="w-100 float-left faq-con" id="faq">
+<section class="w-100 float-left faq-con" id="faq">
     <div class="container">
         <div class="professional-title text-center">
-            <h2>Popular Question</h2>
-            <p>Seram ipsum dolor sit amet, consectetur adipiscing elit sed lorem ipsum dolor sit amet, consectetur<br>
-                adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+            <h2>Frequently Asked Questions</h2>
+            <p>Most of the patients have doubts in general. We have given answers for mostly asked.<br>
+
             </p>
         </div>
         <div id="accordion">
@@ -324,17 +203,19 @@
                     <div class="card">
                         <div class="card-header" id="headingOne">
                             <h5 class="mb-0">
-                                <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne"
+                                <button class="btn btn-link faq__" data-toggle="collapse" data-target="#collapseOne"
                                     aria-expanded="true" aria-controls="collapseOne">
-                                    Is Community Health Care a government agency?
+                                    How Often Should I See The Dentist?
                                 </button>
                             </h5>
                         </div>
                         <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
                             data-parent="#accordion">
                             <div class="card-body">
-                                Lorem ipsum dolor sit amet consectetuer adipiscing elit tenean com modo ligula eget
-                                dolor In enim justo rhoncus utimperdiet ave nena tisvitae justoullam dictum.
+                                Youngsters, teenagers, and adults should all see the dental specialist for a regular
+                                checkup at least once every six months.
+                                Patients who are at a greater risk for oral cancer or gum disease may be required to see
+                                the dentist more than just twice a year.
                             </div>
                         </div>
                     </div>
@@ -343,16 +224,19 @@
                     <div class="card">
                         <div class="card-header" id="headingTwo">
                             <h5 class="mb-0">
-                                <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo"
-                                    aria-expanded="false" aria-controls="collapseTwo">
-                                    What happens if a patient needs surgery?
+                                <button class="btn btn-link collapsed faq__" data-toggle="collapse"
+                                    data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">How Can
+                                    I Improve the Whiteness of
+                                    My Teeth?
+
                                 </button>
                             </h5>
                         </div>
                         <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
                             <div class="card-body">
-                                Lorem ipsum dolor sit amet consectetuer adipiscing elit tenean com modo ligula eget
-                                dolor In enim justo rhoncus utimperdiet ave nena tisvitae justoullam dictum.
+                                A lovely smile with clean, white teeth is a huge confidence booster. The vast majority
+                                of people experience some discoloration of teeth throughout the long term, either from
+                                surface stains or inside ones.
                             </div>
                         </div>
                     </div>
@@ -361,17 +245,18 @@
                     <div class="card">
                         <div class="card-header" id="headingThree">
                             <h5 class="mb-0">
-                                <button class="btn btn-link collapsed" data-toggle="collapse"
+                                <button class="btn btn-link collapsed faq__" data-toggle="collapse"
                                     data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    How do I make a Medical or Dental Appointment?
+                                    How Can I Take Care Of My Teeth Between Dental Checkups?
                                 </button>
                             </h5>
                         </div>
                         <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
                             data-parent="#accordion">
                             <div class="card-body">
-                                Lorem ipsum dolor sit amet consectetuer adipiscing elit tenean com modo ligula eget
-                                dolor In enim justo rhoncus utimperdiet ave nena tisvitae justoullam dictum.
+                                Remember to brush your teeth twice a day, avoiding food containing sugar, and avoiding
+                                acidic contents helps in maintaining good oral health between dental checkups. Routine
+                                dental checkup is more important.
                             </div>
                         </div>
                     </div>
@@ -380,16 +265,15 @@
                     <div class="card">
                         <div class="card-header" id="headingfour">
                             <h5 class="mb-0">
-                                <button class="btn btn-link collapsed" data-toggle="collapse"
+                                <button class="btn btn-link collapsed faq__" data-toggle="collapse"
                                     data-target="#collapsefour" aria-expanded="false" aria-controls="collapsefour">
-                                    What if a patient needs a nursing home?
-                                </button>
+                                    What happens when I simply ignore my teeth cleaned? </button>
                             </h5>
                         </div>
                         <div id="collapsefour" class="collapse" aria-labelledby="headingfour" data-parent="#accordion">
                             <div class="card-body">
-                                Lorem ipsum dolor sit amet consectetuer adipiscing elit tenean com modo ligula eget
-                                dolor In enim justo rhoncus utimperdiet ave nena tisvitae justoullam dictum.
+                                As the plaque and math amass, the periodontal disease proceeds. Supporting tissues
+                                around the teeth (gums, periodontal tendons, bone) are lost.
                             </div>
                         </div>
                     </div>
@@ -398,16 +282,17 @@
                     <div class="card">
                         <div class="card-header" id="headingfive">
                             <h5 class="mb-0">
-                                <button class="btn btn-link collapsed" data-toggle="collapse"
+                                <button class="btn btn-link collapsed faq__" data-toggle="collapse"
                                     data-target="#collapsefive" aria-expanded="false" aria-controls="collapsefive">
-                                    What happens if a patient needs a specialist?
+                                    What's the most effective way to prevent gum disease?
                                 </button>
                             </h5>
                         </div>
                         <div id="collapsefive" class="collapse" aria-labelledby="headingfive" data-parent="#accordion">
                             <div class="card-body">
-                                Lorem ipsum dolor sit amet consectetuer adipiscing elit tenean com modo ligula eget
-                                dolor In enim justo rhoncus utimperdiet ave nena tisvitae justoullam dictum.
+                                Reliable removal of plaque by flossing, brushing and customary expert cleanings will
+                                limit your risk of gum disease. However, there are different elements that can influence
+                                the health of your gums, like pressure, diabetes, genetics and pregnancy.
                             </div>
                         </div>
                     </div>
@@ -416,54 +301,18 @@
                     <div class="card">
                         <div class="card-header" id="headingsix">
                             <h5 class="mb-0">
-                                <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapsesix"
-                                    aria-expanded="false" aria-controls="collapsesix">
-                                    Where are your locations?
+                                <button class="btn btn-link collapsed faq__" data-toggle="collapse"
+                                    data-target="#collapsesix" aria-expanded="false" aria-controls="collapsesix">
+                                    How might I further develop my dental cleanliness faster?
                                 </button>
                             </h5>
                         </div>
                         <div id="collapsesix" class="collapse" aria-labelledby="headingsix" data-parent="#accordion">
                             <div class="card-body">
-                                Lorem ipsum dolor sit amet consectetuer adipiscing elit tenean com modo ligula eget
-                                dolor In enim justo rhoncus utimperdiet ave nena tisvitae justoullam dictum.
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="card mb-xl-0 mb-lg-0">
-                        <div class="card-header" id="headingseven">
-                            <h5 class="mb-0">
-                                <button class="btn btn-link collapsed" data-toggle="collapse"
-                                    data-target="#collapseseven" aria-expanded="false" aria-controls="collapseseven">
-                                    Is Community Health Care a walk-in facility?
-                                </button>
-                            </h5>
-                        </div>
-                        <div id="collapseseven" class="collapse" aria-labelledby="headingseven"
-                            data-parent="#accordion">
-                            <div class="card-body">
-                                Lorem ipsum dolor sit amet consectetuer adipiscing elit tenean com modo ligula eget
-                                dolor In enim justo rhoncus utimperdiet ave nena tisvitae justoullam dictum.
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="card mb-0">
-                        <div class="card-header" id="headingeight">
-                            <h5 class="mb-0">
-                                <button class="btn btn-link collapsed" data-toggle="collapse"
-                                    data-target="#collapseeight" aria-expanded="false" aria-controls="collapseeight">
-                                    Is Community Health Care an urgent care facility?
-                                </button>
-                            </h5>
-                        </div>
-                        <div id="collapseeight" class="collapse" aria-labelledby="headingeight"
-                            data-parent="#accordion">
-                            <div class="card-body">
-                                Lorem ipsum dolor sit amet consectetuer adipiscing elit tenean com modo ligula eget
-                                dolor In enim justo rhoncus utimperdiet ave nena tisvitae justoullam dictum.
+                                The simplest method for starting to see noticeable improvements in your dental
+                                cleanliness is to brush your teeth two times every day for 2 minutes and floss somewhere
+                                around one time each day. We additionally suggest visiting us quickly for an expert
+                                dental cleaning.
                             </div>
                         </div>
                     </div>
@@ -471,24 +320,24 @@
             </div>
         </div>
     </div>
-</div>
+</section>
 <!-- FAQ  -->
 <!-- Contact-section -->
 <section>
     <div class="w-100 float-left form-main-con" id="contact-form">
-        <div class="container">
+        <div class="container ">
             <div class="text-center">
                 <h2>Book An Appointment</h2>
-                <p>Seram ipsum dolor sit amet, consectetur adipiscing elit, sed do eius mod tempor incididunt aenean<br>
-                    leo ligula porttitor eu consequat vitae eleifend tac.
+                <p>It's simple and FAST to book your Montgomery Dental MD Appointment Online. Also, you can see a full
+                    rundown of available times and pick the time that suits you best.
+
                 </p>
             </div>
-            <div class="row">
+            <div class="row align-items-center">
                 <div class="col-lg-6 order-xl-0 order-lg-0 order-2">
-                    <div class="form-left-con position-relative text-center">
-                        <lottie-player src="https://assets3.lottiefiles.com/packages/lf20_fxvz0c.json"
-                            background="transparent" speed="1" style="width: 500px; height: 500px;" loop autoplay>
-                        </lottie-player>
+                    <div class=" position-relative text-center">
+                        <img src="assets/Assets/contact.jpg"
+                            style="width: 550px; height: 450px; border-radius:2rem 0 2rem 0">
                     </div>
                 </div>
                 <div class="col-lg-6">

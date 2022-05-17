@@ -3,12 +3,12 @@
  ?>
 <!-- banner-start -->
 <section>
-    <div class="w-100 float-left generic-banner-con text-xl-left text-lg-left text-center">
+    <div class="w-100 generic-banner-con text-xl-left text-lg-left text-center">
         <div class="container">
             <div class="generic-banner-content text-white text-center">
                 <h1>Our Services</h1>
-                <p class="text-white mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                    tempor<br> incididunt ut labore et dolore magna aliqua.</p>
+                <p class="text-white mb-0">At our Montgomery Dental MD Clinic, we offer a number of dental services to
+                    provide you with the very best oral health care possible.</p>
             </div>
         </div>
     </div>
@@ -32,8 +32,8 @@
                                         alt="service-box-icon" class="img-fluid" /></a>
                             </figure>
                             <h5>Cleaning</h5>
-                            <span class="d-block">Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum
-                                repudiandae laudantium voluptas
+                            <span class="d-block">Dental cleaning is a preventative procedure performed by dentists or
+                                dental hygienists to maintain or achieve optimum oral health.
                             </span>
                         </div>
                     </div>
@@ -44,8 +44,8 @@
                                         alt="service-box-icon" class="img-fluid" /></a>
                             </figure>
                             <h5>Dental Bonding</h5>
-                            <span class="d-block"> Mental health includes our emotional, psychological, and social
-                                well-being. It affects how we think, feel, and act.</span>
+                            <span class="d-block"> Dental bonding is an affordable, pain-free way to improve your
+                                teeth’s appearance while reinforcing their performance.</span>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-6 pl-0 pr-0 border-right-0">
@@ -55,8 +55,9 @@
                                         alt="service-box-icon" class="img-fluid" /></a>
                             </figure>
                             <h5>Extraction</h5>
-                            <span class="d-block">Oral hygiene, the practice of keeping the mouth and teeth clean in
-                                order to prevent dental disorders.</span>
+                            <span class="d-block">This is often the preferred option when the pick is badly damaged and
+                                there is a chance the repair will not last. Choosing for tooth extraction may be the
+                                best option.</span>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-6 pl-0 pr-0">
@@ -66,8 +67,8 @@
                                         alt="service-box-icon" class="img-fluid" /></a>
                             </figure>
                             <h5>Wisdom Teeth</h5>
-                            <span class="d-block">The first stage of labor and birth occurs when you begin to feel
-                                persistent contractions</span>
+                            <span class="d-block">Wisdom teeth are the third and last molars that most people get in
+                                their late teens or early 20s.</span>
                         </div>
                     </div>
                 </div>
@@ -86,8 +87,8 @@
                                         alt="service-box-icon" class="img-fluid" /></a>
                             </figure>
                             <h5>Dental Veeners</h5>
-                            <span class="d-block">Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum
-                                repudiandae laudantium voluptas
+                            <span class="d-block">Dental veneers are a "thin piece of ceramic ware accustomed re-create
+                                the natural look of teeth by putting on the front facet of broken teeth.
                             </span>
                         </div>
                     </div>
@@ -98,8 +99,8 @@
                                         alt="service-box-icon" class="img-fluid" /></a>
                             </figure>
                             <h5>Teeth Whitening</h5>
-                            <span class="d-block"> Mental health includes our emotional, psychological, and social
-                                well-being. It affects how we think, feel, and act.</span>
+                            <span class="d-block">Removing stain from teeth and restoring their natural look is done by
+                                the teeth whitening process.</span>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-6 pl-0 pr-0 border-right-0">
@@ -109,8 +110,8 @@
                                         alt="service-box-icon" class="img-fluid" /></a>
                             </figure>
                             <h5>Invisalign</h5>
-                            <span class="d-block">Oral hygiene, the practice of keeping the mouth and teeth clean in
-                                order to prevent dental disorders.</span>
+                            <span class="d-block">Invisalign is an essentially invisible orthodontic treatment used to
+                                improve the appearance of your smile .</span>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-6 pl-0 pr-0">
@@ -120,8 +121,8 @@
                                         alt="service-box-icon" class="img-fluid" /></a>
                             </figure>
                             <h5>Implants</h5>
-                            <span class="d-block">The first stage of labor and birth occurs when you begin to feel
-                                persistent contractions</span>
+                            <span class="d-block">Dental implants are strong and muscular and will last several
+                                years.</span>
                         </div>
                     </div>
                 </div>
@@ -133,7 +134,7 @@
 <!-- service-box -->
 
 <!-- core-vaule-section -->
-<!-- quality-system-section -->
+
 <section>
     <div class="w-100 float-left quality-system-con">
         <div class="container">
@@ -142,39 +143,28 @@
                     <div class="quality-system-left-con">
                         <h2>Our Core Values
                         </h2>
-                        <p>Seram ipsum dolor sit amet, consectetur adipiscing elit, sed do eius mod tempor incididunt.
+                        <p>Our quality experts are one of the best dentists in golf who can understand dental issues
+                            properly, and they will give the best dental treatment that can gain you better oral health.
                         </p>
-                        <p>Aenean leo ligula, porttitor eu consequat vitae eleifend ac enim aliqu am lorem ante dapibus
-                            in viverra quis feugiata tellus.</p>
+                        <p>If you have any dental problems then do not delay, visit our dental clinics. Our dentists are
+                            committed to giving a better dental treatment solution to improve your oral health. </p>
+
                         <div class="quality-system-list">
-                            <ul class="list-unstyled">
-                                <li class="position-relative"><i class="fas fa-circle"></i>24 Hour Service</li>
-                                <li class="position-relative"><i class="fas fa-circle"></i>Emergency Cases</li>
-                                <li class="position-relative"><i class="fas fa-circle"></i>Expert Doctors</li>
-                            </ul>
-                        </div>
-                        <div class="quality-system-list">
-                            <ul class="list-unstyled">
-                                <li class="position-relative"><i class="fas fa-circle"></i>Update Covid-19</li>
-                                <li class="position-relative"><i class="fas fa-circle"></i>24/7 Help Center</li>
-                                <li class="position-relative"><i class="fas fa-circle"></i>Modern Clinic</li>
-                            </ul>
                         </div>
                         <a href="#contact-form" class="appointment-btn">Make Appointment</a>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6">
-                    <div class="quality-system-right-con position-relative text-center">
-                        <lottie-player src="https://assets8.lottiefiles.com/packages/lf20_wdXBRc.json"
-                            background="transparent" speed="1" style="width: 580px; height: 400px;" loop autoplay>
-                        </lottie-player>
+                    <div class=" position-relative text-center">
+                        <img src="assets/Assets/team.jpg"
+                            style="width: 580px; height: 400px; border-radius:0 3rem 0 3rem">
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
-<!-- quality-system-section -->
+
 <!-- core-vaule-section -->
 
 

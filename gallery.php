@@ -3,7 +3,7 @@
  ?>
 <!-- banner-start -->
 <section>
-    <div class="w-100 float-left generic-banner-con text-xl-left text-lg-left text-center">
+    <div class="w-100 generic-banner-con text-xl-left text-lg-left text-center mw-100">
         <div class="container">
             <div class="generic-banner-content text-white text-center">
                 <h1>Gallery</h1>
@@ -17,26 +17,56 @@
 </div>
 </div>
 </div>
-
-
+<br>
+<br>
+<!-- Gallery -->
+<section>
+    <div class="gallery__img">
+        <img class="gallery-img" src="assets/Assets/Gallery-img1.webp" alt="">
+        <img class="gallery-img" src="assets/Assets/Gallery-img2.webp" alt="">
+        <img class="gallery-img" src="assets/Assets/Gallery-img3.webp" alt="">
+        <img class="gallery-img" src="assets/Assets/Gallery-img4.webp" alt="">
+        <img class="gallery-img" src="assets/Assets/Gallery-img5.webp" alt="">
+        <img class="gallery-img" src="assets/Assets/Gallery-img6.webp" alt="">
+        <img class="gallery-img" src="assets/Assets/Gallery-img7.webp" alt="">
+        <img class="gallery-img" src="assets/Assets/Gallery-img8.webp" alt="">
+        <img class="gallery-img" src="assets/Assets/Gallery-img9.webp" alt="">
+        <img class="gallery-img" src="assets/Assets/Gallery-img10.webp" alt="">
+        <img class="gallery-img" src="assets/Assets/Gallery-img11.webp" alt="">
+        <img class="gallery-img" src="assets/Assets/Gallery-img12.webp" alt="">
+        <img class="gallery-img" src="assets/Assets/Gallery-img13.webp" alt="">
+        <img class="gallery-img" src="assets/Assets/Gallery-img14.webp" alt="">
+        <img class="gallery-img" src="assets/Assets/Gallery-img15.webp" alt="">
+        <img class="gallery-img" src="assets/Assets/Gallery-img16.webp" alt="">
+        <img class="gallery-img" src="assets/Assets/Gallery-img17.webp" alt="">
+        <img class="gallery-img" src="assets/Assets/Gallery-img18.webp" alt="">
+        <img class="gallery-img" src="assets/Assets/Gallery-img19.webp" alt="">
+        <img class="gallery-img" src="assets/Assets/Gallery-img20.webp" alt="">
+        <img class="gallery-img" src="assets/Assets/Gallery-img21.webp" alt="">
+        <img class="gallery-img" src="assets/Assets/Gallery-img22.webp" alt="">
+        <img class="gallery-img" src="assets/Assets/Gallery-img23.webp" alt="">
+        <img class="gallery-img" src="assets/Assets/Gallery-img24.webp" alt="">
+    </div>
+</section>
+<!-- Gallery -->
 
 
 <!-- Contact-section -->
 <section>
-    <div class="w-100 float-left form-main-con" id="contact-form">
-        <div class="container">
+    <div class="w-100 pt-4 float-left form-main-con" id="contact-form">
+        <div class="container ">
             <div class="text-center">
-                <h2 style="padding-top:3rem;">Book An Appointment</h2>
-                <p>Seram ipsum dolor sit amet, consectetur adipiscing elit, sed do eius mod tempor incididunt aenean<br>
-                    leo ligula porttitor eu consequat vitae eleifend tac.
+                <h2>Book An Appointment</h2>
+                <p>It's simple and FAST to book your Montgomery Dental MD Appointment Online. Also, you can see a full
+                    rundown of available times and pick the time that suits you best.
+
                 </p>
             </div>
-            <div class="row">
+            <div class="row align-items-center">
                 <div class="col-lg-6 order-xl-0 order-lg-0 order-2">
-                    <div class="form-left-con position-relative text-center">
-                        <lottie-player src="https://assets3.lottiefiles.com/packages/lf20_fxvz0c.json"
-                            background="transparent" speed="1" style="width: 500px; height: 500px;" loop autoplay>
-                        </lottie-player>
+                    <div class=" position-relative text-center">
+                        <img src="assets/Assets/contact.jpg"
+                            style="width: 550px; height: 450px; border-radius:2rem 0 2rem 0">
                     </div>
                 </div>
                 <div class="col-lg-6">

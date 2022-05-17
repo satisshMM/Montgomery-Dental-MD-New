@@ -3,7 +3,7 @@
  ?>
 <!-- banner-start -->
 <section>
-    <div class="w-100 float-left generic-banner-con text-xl-left text-lg-left text-center">
+    <div class="w-100  generic-banner-con text-xl-left text-lg-left text-center">
         <div class="container">
             <div class="generic-banner-content text-white text-center">
                 <h1>Kids Dentistry</h1>
@@ -27,24 +27,14 @@
                     <div class="quality-system-left-con">
                         <h2>Kids Dentistry
                         </h2>
-                        <p>Seram ipsum dolor sit amet, consectetur adipiscing elit, sed do eius mod tempor incididunt.
+                        <p>At Kid's Dentistry of Montgomery Dental MD, we understand that children have totally
+                            different necessities with regards to dental visits and that a positive involvement with the
+                            dental specialist makes way for a long period of healthy teeth and a huge smile.
                         </p>
-                        <p>Aenean leo ligula, porttitor eu consequat vitae eleifend ac enim aliqu am lorem ante dapibus
-                            in viverra quis feugiata tellus.</p>
+                        <p>That is the reason our pediatric dental office is committed to treating kids in a fun-filled
+                            atmosphere where an excursion to the dental specialist is effortless.</p>
+
                         <div class="quality-system-list">
-                            <ul class="list-unstyled">
-                                <li class="position-relative"><i class="fas fa-circle"></i>Appearance of
-                                    Teeth</li>
-                                <li class="position-relative"><i class="fas fa-circle"></i>Dental Cleanings</li>
-                                <li class="position-relative"><i class="fas fa-circle"></i>Dental X-rays</li>
-                            </ul>
-                        </div>
-                        <div class="quality-system-list">
-                            <ul class="list-unstyled">
-                                <li class="position-relative"><i class="fas fa-circle"></i>Regular Checkups</li>
-                                <li class="position-relative"><i class="fas fa-circle"></i>Dental Treatments</li>
-                                <li class="position-relative"><i class="fas fa-circle"></i>Faster Solutions</li>
-                            </ul>
                             <a href="contact.php" class="appointment-btn">Make Appointment</a>
                         </div>
                     </div>
@@ -70,7 +60,6 @@
                     <div class=" core-vaule-left-con position-relative text-center">
                         <img src="assets/Assets/brush.jpg"
                             style="width:500px; height: 450px; border-radius:0 2rem 0 2rem;" />
-
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6">
@@ -78,15 +67,13 @@
                         <div class="core-vaule-title">
                             <h2>Brushing Twice
                             </h2>
-                            <p>Seram ipsum dolor sit amet, consectetur adipiscing elit, sed
-                                doeius mod tempor incididunt aenean leo.
+                            <p>Most dental specialists believe that you should clean your teeth two times every day -
+                                once at the beginning of the day and once at night.
                             </p>
                         </div>
-                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aperiam at nam vero voluptatibus
-                            aut atque.</p><br>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad ab culpa minus sapiente,
-                            voluptate molestiae a facere repellendus? Exercitationem, excepturi?</p>
-
+                        <p> This is important during the night, the development of plaque is for the most part
+                            undisturbed. Brushing after every supper is additionally supported by dental specialists.
+                        </p><br>
                         <a href="contact.php" class="appointment-btn">Make Appointment</a>
                     </div>
                 </div>
@@ -101,19 +88,19 @@
 <!-- Contact-section -->
 <section>
     <div class="w-100 float-left form-main-con" id="contact-form">
-        <div class="container">
+        <div class="container ">
             <div class="text-center">
-                <h2 style="padding-top:3rem;">Book An Appointment</h2>
-                <p>Seram ipsum dolor sit amet, consectetur adipiscing elit, sed do eius mod tempor incididunt aenean<br>
-                    leo ligula porttitor eu consequat vitae eleifend tac.
+                <h2>Book An Appointment</h2>
+                <p>It's simple and FAST to book your Montgomery Dental MD Appointment Online. Also, you can see a full
+                    rundown of available times and pick the time that suits you best.
+
                 </p>
             </div>
-            <div class="row">
+            <div class="row align-items-center">
                 <div class="col-lg-6 order-xl-0 order-lg-0 order-2">
-                    <div class="form-left-con position-relative text-center">
-                        <lottie-player src="https://assets3.lottiefiles.com/packages/lf20_fxvz0c.json"
-                            background="transparent" speed="1" style="width: 500px; height: 500px;" loop autoplay>
-                        </lottie-player>
+                    <div class=" position-relative text-center">
+                        <img src="assets/Assets/contact.jpg"
+                            style="width: 550px; height: 450px; border-radius:2rem 0 2rem 0">
                     </div>
                 </div>
                 <div class="col-lg-6">
